@@ -1,0 +1,6 @@
+module MainFrameModule
+MainFrame 1.0 MainFrame.qml
+MainFrameContent 1.0 MainFrameContent.qml
+ControlButtonsPanel 1.0 ControlButtonsPanel.qml
+AddButton 1.0 AddButton.qml
+DelButton 1.0 DelButton.qml

@@ -1,0 +1,9 @@
+module Base
+BaseAddDialog 1.0 BaseAddDialog.qml
+BaseTextInput 1.0 BaseTextInput.qml
+BaseComboBox 1.0 BaseComboBox.qml
+BaseTextEdit 1.0 BaseTextEdit.qml
+BaseDateTimeEdit 1.0 BaseDateTimeEdit.qml
+PriorSelectionItem 1.0 PriorSelectionItem.qml
+ColorSelectItem 1.0 ColorSelectItem.qml
+BaseCheckBox 1.0 BaseCheckBox.qml

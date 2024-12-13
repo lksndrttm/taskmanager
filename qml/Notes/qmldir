@@ -1,0 +1,12 @@
+module Notes
+NavImage 1.0 NavImage.qml
+NavPopup 1.0 NavPopup.qml
+SelectionControlls 1.0 SelectionControlls.qml
+CurrentCategory 1.0 CurrentCategory.qml
+SearchBox 1.0 SearchBox.qml
+NotesView 1.0 NotesView.qml
+AddNoteButton 1.0 AddNoteButton.qml
+NoteEditor 1.0 NoteEditor.qml
+AddCatDialog 1.0 AddCatDialog.qml
+SelectCategoryDialog 1.0 SelectCategoryDialog.qml
+CatColorsModel 1.0 CatColorsModel.qml

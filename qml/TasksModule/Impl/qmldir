@@ -1,0 +1,9 @@
+module Impl
+Task 1.0 TaskDelegate.qml
+TaskList 1.0 TaskList.qml
+List 1.0 List.qml
+SelectionWidget 1.0 SelectionWidget.qml
+SubTargetDelegate 1.0 SubTargetDelegate.qml
+IteratorView 1.0 IteratorView.qml
+IterDetailsItem 1.0 IterDetailsItem.qml
+ListsHeader 1.0 ListsHeader.qml

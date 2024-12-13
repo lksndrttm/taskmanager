@@ -1,0 +1,146 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+		<file>fonts/fontello.ttf</file>
+        <file>qml/TasksModule/Base/qmldir</file>
+        <file>qml/TasksModule/Impl/qmldir</file>
+        <file>qml/TasksModule/qmldir</file>
+        <file>qml/MainFrameModule/AddButton.qml</file>
+        <file>qml/MainFrameModule/DelButton.qml</file>
+        <file>qml/MainFrameModule/MainFrame.qml</file>
+        <file>qml/MainFrameModule/qmldir</file>
+        <file>qml/TasksModule/Base/BaseListDelegate.qml</file>
+        <file>qml/StyleSettings/qmldir</file>
+        <file>qml/StyleSettings/Style.qml</file>
+        <file>qml/TasksModule/Base/BaseListView.qml</file>
+        <file>qml/TasksModule/Impl/TaskDelegate.qml</file>
+        <file>qml/TasksModule/Impl/TaskList.qml</file>
+        <file>qml/TasksModule/Impl/MockModel.qml</file>
+        <file>qml/TabNavigation/qmldir</file>
+        <file>qml/TabNavigation/TabNavigator.qml</file>
+        <file>qml/MainFrameModule/MainFrameContent.qml</file>
+        <file>qml/TabNavigation/Tab.qml</file>
+        <file>qml/MainFrameModule/ControlButtonsPanel.qml</file>
+        <file>qml/TasksModule/Impl/List.qml</file>
+        <file>qml/TasksModule/Impl/ListDelegate.qml</file>
+        <file>qml/TabNavigation/ListStackItem.qml</file>
+        <file>qml/TabNavigation/TaskListTabContent.qml</file>
+        <file>qml/TabNavigation/ListsTabContent.qml</file>
+        <file>qml/TasksModule/Impl/TaskCheckBox.qml</file>
+        <file>qml/InputModule/qmldir</file>
+        <file>qml/InputModule/Base/qmldir</file>
+        <file>qml/InputModule/Impl/qmldir</file>
+        <file>qml/InputModule/Base/BaseAddDialog.qml</file>
+        <file>qml/InputModule/Base/BaseTextInput.qml</file>
+        <file>qml/InputModule/Impl/ListAddDialog.qml</file>
+        <file>qml/InputModule/Base/BaseComboBox.qml</file>
+        <file>qml/TasksModule/Impl/SelectionWidget.qml</file>
+        <file>qml/TasksModule/Impl/ListsHeader.qml</file>
+        <file>qml/TasksModule/Base/BranchMark.qml</file>
+        <file>qml/TasksModule/Base/BaseTaskListView.qml</file>
+        <file>qml/TasksModule/Base/BaseTaskListDelegate.qml</file>
+        <file>qml/TasksModule/Base/TaskListHeader.qml</file>
+        <file>qml/TasksModule/Impl/AddTaskItem.qml</file>
+        <file>qml/InputModule/Base/BaseTextEdit.qml</file>
+        <file>qml/InputModule/Base/BaseDateTimeEdit.qml</file>
+        <file>qml/InputModule/Base/PriorSelectionItem.qml</file>
+        <file>qml/InputModule/Base/PriorRadioButton.qml</file>
+        <file>qml/TasksModule/Impl/TaskDetailsItem.qml</file>
+        <file>qml/InputModule/Impl/SubTargetAddItem.qml</file>
+        <file>qml/InputModule/Base/ColorSelectItem.qml</file>
+        <file>qml/TasksModule/Impl/SubTargetDelegate.qml</file>
+        <file>qml/InputModule/Impl/SubTargetsView.qml</file>
+        <file>qml/TabNavigation/IterStackItem.qml</file>
+        <file>qml/TasksModule/Impl/IteratorDelegate.qml</file>
+        <file>qml/TasksModule/Impl/IteratorView.qml</file>
+        <file>qml/InputModule/Impl/IterAddDialog.qml</file>
+        <file>qml/TasksModule/Impl/IteratorsProgressBar.qml</file>
+        <file>qml/TasksModule/Impl/IterableSeriesDelegate.qml</file>
+        <file>qml/InputModule/Base/BaseCheckBox.qml</file>
+        <file>qml/TasksModule/Impl/IterDetailsItem.qml</file>
+        <file>qml/TasksModule/Impl/ScheduleTaskDelegate.qml</file>
+        <file>qml/TasksModule/Impl/TaskDelegateItem.qml</file>
+        <file>qml/TasksModule/Impl/ScheduleTaskDelegateItem.qml</file>
+        <file>qml/TabNavigation/SettingsStackItem.qml</file>
+        <file>qml/TabNavigation/NotesStackItem.qml</file>
+        <file>qml/Notes/qmldir</file>
+        <file>qml/Notes/NavImage.qml</file>
+        <file>qml/Notes/NavPopup.qml</file>
+        <file>qml/Notes/SelectionControlls.qml</file>
+        <file>qml/Notes/CurrentCategory.qml</file>
+        <file>qml/Notes/SearchBox.qml</file>
+        <file>qml/Notes/NotesView.qml</file>
+        <file>qml/Notes/AddNoteButton.qml</file>
+        <file>qml/Notes/NoteEditor.qml</file>
+        <file>qml/Notes/AddCatDialog.qml</file>
+        <file>qml/Notes/SelectCategoryDialog.qml</file>
+        <file>qml/Notes/CatColorsModel.qml</file>
+        <file>qml/Notes/EditorTextArea.qml</file>
+        <file>qml/Notes/EditToolBar.qml</file>
+        <file>qml/Notes/EditToolsPanel.qml</file>
+        <file>qml/Notes/EditToolButton.qml</file>
+        <file>qml/Notes/SelectImageDialog.qml</file>
+        <file>qml/Notes/NoteToolPopup.qml</file>
+        <file>qml/Notes/FontSizeSlider.qml</file>
+        <file>qml/Notes/RichTextEditor.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="list.png">qml/resources/images/list.png</file>
+        <file alias="list2.png">qml/resources/images/list2.png</file>
+        <file alias="python.png">qml/resources/images/interface.png</file>
+        <file alias="complite.png">qml/resources/images/complite.png</file>
+        <file alias="complite1.png">qml/resources/images/complite1.png</file>
+        <file alias="complite2.png">qml/resources/images/complite2.png</file>
+        <file alias="notcomplite.png">qml/resources/images/notcomplite.png</file>
+        <file alias="note.png">qml/resources/images/note.png</file>
+        <file alias="note2.png">qml/resources/images/note2.png</file>
+        <file alias="x.png">qml/resources/images/x.png</file>
+        <file alias="plus.png">qml/resources/images/plus.png</file>
+        <file alias="plus2.png">qml/resources/images/plus2.png</file>
+        <file alias="branch-closed.png">qml/resources/images/branch-closed.png</file>
+        <file alias="branch-open.png">qml/resources/images/branch-open.png</file>
+        <file alias="branch-closed-white.png">qml/resources/images/branch-closed-white.png</file>
+        <file alias="branch-open-white.png">qml/resources/images/branch-open-white.png</file>
+        <file alias="whiteX.png">qml/resources/images/whiteX.png</file>
+        <file alias="white_trash.png">qml/resources/images/white_trash.png</file>
+        <file alias="search.svg">qml/resources/images/svg/search.svg</file>
+        <file alias="arrow-left-short.svg">qml/resources/images/svg/arrow-left-short.svg</file>
+        <file alias="grid-fill.svg">qml/resources/images/svg/grid-fill.svg</file>
+        <file alias="stickies-fill.svg">qml/resources/images/svg/stickies-fill.svg</file>
+        <file alias="close.svg">qml/resources/images/svg/close.svg</file>
+        <file alias="plus-square-fill.svg">qml/resources/images/svg/plus-square-fill.svg</file>
+        <file alias="check2.svg">qml/resources/images/svg/check2.svg</file>
+        <file alias="arrow-return-right.svg">qml/resources/images/svg/arrow-return-right.svg</file>
+        <file alias="arrow-return-left.svg">qml/resources/images/svg/arrow-return-left.svg</file>
+        <file alias="pencil-square.svg">qml/resources/images/svg/pencil-square.svg</file>
+        <file alias="journal-richtext.svg">qml/resources/images/svg/journal-richtext.svg</file>
+        <file alias="caret-down-fill.svg">qml/resources/images/svg/caret-down-fill.svg</file>
+        <file alias="caret-up-fill.svg">qml/resources/images/svg/caret-up-fill.svg</file>
+        <file alias="sticky-fill.svg">qml/resources/images/svg/sticky-fill.svg</file>
+        <file alias="bookmark-fill.svg">qml/resources/images/svg/bookmark-fill.svg</file>
+        <file alias="bookmark.svg">qml/resources/images/svg/bookmark.svg</file>
+        <file alias="tag-fill.svg">qml/resources/images/svg/tag-fill.svg</file>
+        <file alias="plus-circle.svg">qml/resources/images/svg/plus-circle.svg</file>
+        <file alias="check-square.svg">qml/resources/images/svg/check-square.svg</file>
+        <file alias="stickies.svg">qml/resources/images/svg/stickies.svg</file>
+        <file alias="trash2.svg">qml/resources/images/svg/trash2.svg</file>
+        <file alias="intersect.svg">qml/resources/images/svg/intersect.svg</file>
+        <file alias="text-center.svg">qml/resources/images/svg/text-center.svg</file>
+        <file alias="text-indent-left.svg">qml/resources/images/svg/text-indent-left.svg</file>
+        <file alias="text-indent-right.svg">qml/resources/images/svg/text-indent-right.svg</file>
+        <file alias="text-left.svg">qml/resources/images/svg/text-left.svg</file>
+        <file alias="text-paragraph.svg">qml/resources/images/svg/text-paragraph.svg</file>
+        <file alias="text-right.svg">qml/resources/images/svg/text-right.svg</file>
+        <file alias="image.svg">qml/resources/images/svg/image.svg</file>
+        <file alias="image-fill.svg">qml/resources/images/svg/image-fill.svg</file>
+        <file alias="type.svg">qml/resources/images/svg/type.svg</file>
+        <file alias="type-bold.svg">qml/resources/images/svg/type-bold.svg</file>
+        <file alias="type-italic.svg">qml/resources/images/svg/type-italic.svg</file>
+        <file alias="type-strikethrough.svg">qml/resources/images/svg/type-strikethrough.svg</file>
+        <file alias="type-underline.svg">qml/resources/images/svg/type-underline.svg</file>
+        <file alias="list-ul.svg">qml/resources/images/svg/list-ul.svg</file>
+        <file alias="list-ol.svg">qml/resources/images/svg/list-ol.svg</file>
+        <file alias="list-check.svg">qml/resources/images/svg/list-check.svg</file>
+        <file alias="list-task.svg">qml/resources/images/svg/list-task.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+module Impl
+ListAddDialog 1.0 ListAddDialog.qml
+SubTargetAddItem 1.0 SubTargetAddItem.qml
+SubTargetsView 1.0 SubTargetsView.qml
+IterAddDialog 1.0 IterAddDialog.qml

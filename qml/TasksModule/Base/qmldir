@@ -1,0 +1,6 @@
+module Base
+BaseListDelegate 1.0 BaseListDelegate.qml
+BaseListView 1.0 BaseListView.qml
+BranchMark 1.0 BranchMark.qml
+BaseTaskListView 1.0 BaseTaskListView.qml
+BaseTaskListDelegate 1.0 BaseTaskListDelegate.qml
